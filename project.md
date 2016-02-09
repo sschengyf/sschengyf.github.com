@@ -2,21 +2,16 @@
 ### Trader Work Official Website 2015.10
 
 [LEAN WORK HK LIMITED](http://www.lwork.com/), a world-leading financial technology service provider.
+
 [Trader Work](http://www.traderwork.com/), an advanced trading tool which is majoring in forex market, under developing by LEAN WORK.
 
-Both websites are based on the most popular blog framework - WordPress. As a front-end engineer, I adopted HTML5, CSS3 with LESS precompile and a bit of JavaScript to fulfill the designs from UI designer. Naturally, to satisfy vast users of mobile devices, I have made the two website to adapt to mobile browsers by implementation of responsive design.
+Both websites are based on the most popular blog framework - WordPress. To fulfill the designs from UI designer, I adopted HTML5, CSS3 with LESS precompile and a bit of JavaScript, PHP as well. Naturally, to satisfy vast users of mobile devices, I have made the two website to adapt to mobile browsers by implementation of responsive design.
 
 *	LEAN WORK Home Page Screenshot
 ![LEAN WORK Home Page Screenshot](./img/leanwork.png)
 
-*	Previous Trader Work Home Page Screenshot
-![Trader Work V1 Home Page Screenshot](./img/traderwork_v1.png)
-
 *	Current Trader Work Home Page Screenshot
 ![Trader Work V2 Home Page Screenshot](./img/traderwork_v2.png)
-
-*	Trader Work Financial News Screenshot
-![Trader Work Financial News Screenshot](./img/traderwork_info.png)
 
 ---
 
